@@ -82,7 +82,9 @@ Open a browser, in dialog box type "localhost:15672" Rabbitmq login page usernam
 
 git clone https://github.com/yc462/Project490.git ~/
 
-Creators
+
+CREATORS
+
 
 Yvens Cajuste - RabbitMQ, PHP, HTML, CSS
 
