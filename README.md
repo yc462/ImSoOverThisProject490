@@ -85,7 +85,13 @@ git clone https://github.com/yc462/Project490.git ~/
 Creators
 
 Yvens Cajuste - RabbitMQ, PHP, HTML, CSS
+
+
 Jonah Silicieux - RabbitMQ
+
+
 Irena Muskaj - MySQL Database
+
+
 Micah Nagee - Discorgs API, PHP
 
