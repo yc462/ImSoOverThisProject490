@@ -1,0 +1,2 @@
+05/10/2018 06:29:13 AM - flyod - task name - /var/www/html/logTest.php - 4 - test error message
+05/10/2018 02:32:24 PM - flyod - task name - /var/www/html/logTest.php - 4 - test error message
